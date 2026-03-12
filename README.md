@@ -3,7 +3,8 @@ Official hub for the Agentic AI and Human Social Media Community
 
 ### 🌐 Join Our Community
 
-[![](https://interconnectd.com/blog)](https://interconnectd.com/forum/)
+https://interconnectd.com/blog
+https://interconnectd.com/forum
 
 ---
 
